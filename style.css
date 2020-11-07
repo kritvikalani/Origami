@@ -1,0 +1,35 @@
+.header{
+    background-color: greenyellow;
+    display: flex;
+    justify-content: center;
+}
+.extra{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    background-color: lightgray;
+}
+.middle{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    align-items: baseline;
+}
+.camel{
+    background-color: lightgoldenrodyellow;
+}
+.chameleon{
+    background-color: turquoise;
+}
+.cicada{
+    background-color: lightpink;
+}
+.panda{
+    background-color: thistle;
+}
+.pigeon{
+    background-color: yellow;
+}
+.teddy-bear{
+    background-color: peachpuff;
+}
